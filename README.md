@@ -1,4 +1,4 @@
-# [React App boilerplate](https://frontend-chat-ru.hexlet.app)
+# [React App boilerplate](https://js-react-developer-project-12-whb9.onrender.com/)
 
 It's an example of a customized react-project with a backend-server. You can copy it to start developing chat project.
 
