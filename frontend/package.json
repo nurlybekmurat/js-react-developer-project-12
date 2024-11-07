@@ -2,9 +2,10 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://127.0.0.1:5001/",
   "dependencies": {
     "@hexlet/chat-server": "^2.0.2",
-    "@reduxjs/toolkit": "^1.8.1",
+    "@reduxjs/toolkit": "^1.9.7",
     "@vitejs/plugin-react": "^4.3.2",
     "axios": "^0.27.2",
     "bootstrap": "^5.1.3",
